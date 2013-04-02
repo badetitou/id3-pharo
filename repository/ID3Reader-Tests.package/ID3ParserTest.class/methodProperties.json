@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testHeaderShouldContainAtLeast10BytesToBeValid" : "NahuelGarbezza 4/2/2013 16:21",
+		"testIfDoesNotStartWithID3ShouldNotHaveAID3v2Tag" : "NahuelGarbezza 4/2/2013 16:17",
+		"testIfStartsWithID3ShouldHaveAID3v2Tag" : "NahuelGarbezza 4/2/2013 16:17",
+		"testShouldFailToReturnHeaderIfItDoesNotStartWithID3" : "NahuelGarbezza 4/2/2013 16:17",
+		"testShouldNotFailWhenAskingForAHeader" : "NahuelGarbezza 4/2/2013 16:17" } }

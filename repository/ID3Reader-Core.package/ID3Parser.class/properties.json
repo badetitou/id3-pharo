@@ -1,0 +1,14 @@
+{
+	"category" : "ID3Reader-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream" ],
+	"name" : "ID3Parser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"headerWithFlags:" : "NahuelGarbezza 4/2/2013 18:28",
+		"testShouldReturnItsMajorVersionNumber" : "NahuelGarbezza 4/2/2013 17:12",
+		"testShouldReturnItsRevisionNumber" : "NahuelGarbezza 4/2/2013 17:12",
+		"testShouldReturnTheExperimentalFlagSetAsFalse" : "NahuelGarbezza 4/2/2013 18:23",
+		"testShouldReturnTheExperimentalFlagSetAsTrue" : "NahuelGarbezza 4/2/2013 18:23",
+		"testShouldReturnTheExtendedHeaderFlagSetAsFalse" : "NahuelGarbezza 4/2/2013 18:24",
+		"testShouldReturnTheExtendedHeaderFlagSetAsTrue" : "NahuelGarbezza 4/2/2013 18:24",
+		"testShouldReturnTheFooterFlagSetAsFalse" : "NahuelGarbezza 4/2/2013 18:25",
+		"testShouldReturnTheFooterFlagSetAsTrue" : "NahuelGarbezza 4/2/2013 18:25",
+		"testShouldReturnTheTagSizeDecodingAs32BitSynchsafeInteger" : "NahuelGarbezza 4/2/2013 18:34",
+		"testShouldReturnTheUnsynchronizationFlagSetAsFalse" : "NahuelGarbezza 4/2/2013 18:25",
+		"testShouldReturnTheUnsynchronizationFlagSetAsTrue" : "NahuelGarbezza 4/2/2013 18:25" } }

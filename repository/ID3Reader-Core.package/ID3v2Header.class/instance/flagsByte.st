@@ -1,0 +1,4 @@
+private
+flagsByte
+
+	^ bytes sixth
