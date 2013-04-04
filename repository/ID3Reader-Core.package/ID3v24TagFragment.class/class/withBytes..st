@@ -1,4 +1,4 @@
 instance creation
-withBytes: aByteArray
+withBytes: aByteArray 
 
 	^ self new initializeWithBytes: aByteArray

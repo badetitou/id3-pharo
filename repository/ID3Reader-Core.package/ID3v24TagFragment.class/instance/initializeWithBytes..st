@@ -1,4 +1,4 @@
 initialization
-initializeWithBytes: aByteArray
+initializeWithBytes: aByteArray 
 
 	bytes := aByteArray

@@ -2,8 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testHeaderShouldContainAtLeast10BytesToBeValid" : "NahuelGarbezza 4/2/2013 16:21",
+		"testHeaderShouldContainAtLeast10BytesToBeValid" : "NahuelGarbezza 4/4/2013 00:09",
 		"testIfDoesNotStartWithID3ShouldNotHaveAID3v2Tag" : "NahuelGarbezza 4/2/2013 16:17",
 		"testIfStartsWithID3ShouldHaveAID3v2Tag" : "NahuelGarbezza 4/2/2013 16:17",
 		"testShouldFailToReturnHeaderIfItDoesNotStartWithID3" : "NahuelGarbezza 4/2/2013 16:17",
-		"testShouldNotFailWhenAskingForAHeader" : "NahuelGarbezza 4/2/2013 16:17" } }
+		"testShouldNotFailWhenAskingForAHeader" : "NahuelGarbezza 4/2/2013 16:17",
+		"testShouldReturnASingleFrameParsedCorrectly" : "NahuelGarbezza 4/4/2013 00:18",
+		"testShouldReturnAnEmptyListOfFramesWhenThereIsNoData" : "NahuelGarbezza 4/3/2013 16:32",
+		"testShouldReturnMultipleFramesParsedCorrectly" : "NahuelGarbezza 4/4/2013 00:17",
+		"validHeader" : "NahuelGarbezza 4/3/2013 14:45" } }

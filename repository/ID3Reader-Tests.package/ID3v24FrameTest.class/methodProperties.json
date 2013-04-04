@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testShouldReturnTheContent" : "NahuelGarbezza 4/3/2013 16:31",
+		"testShouldReturnTheContentEncoding" : "NahuelGarbezza 4/3/2013 16:31",
+		"testShouldReturnTheFrameId" : "NahuelGarbezza 4/3/2013 16:31",
+		"testShouldReturnTheSizeDecodedAsA32BitSynchsafeInteger" : "NahuelGarbezza 4/3/2013 16:28",
+		"validFrame" : "NahuelGarbezza 4/4/2013 00:05" } }

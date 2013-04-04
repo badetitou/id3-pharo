@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "ID3v2HeaderTest",
+	"name" : "ID3v24FrameTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

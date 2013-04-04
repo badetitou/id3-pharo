@@ -2,8 +2,14 @@
 	"class" : {
 		"on:" : "NahuelGarbezza 4/2/2013 15:52" },
 	"instance" : {
-		"hasID3v2Tag" : "NahuelGarbezza 4/2/2013 16:23",
-		"header" : "NahuelGarbezza 4/2/2013 17:45",
+		"createFrameHeader:" : "NahuelGarbezza 4/4/2013 00:24",
+		"createFrameWithHeader:" : "NahuelGarbezza 4/4/2013 00:29",
+		"detectNextFrameIfSuccess:ifFail:" : "NahuelGarbezza 4/4/2013 00:30",
+		"frames" : "NahuelGarbezza 4/4/2013 00:28",
+		"hasID3v2Tag" : "NahuelGarbezza 4/4/2013 00:21",
+		"header" : "NahuelGarbezza 4/4/2013 00:30",
 		"id3v2TagIdentifier" : "NahuelGarbezza 4/2/2013 16:22",
 		"initializeOn:" : "NahuelGarbezza 4/2/2013 15:53",
+		"isIdentifiedAsFrameHeader:" : "NahuelGarbezza 4/4/2013 00:25",
+		"positionToReadFrames" : "NahuelGarbezza 4/4/2013 00:27",
 		"stream" : "NahuelGarbezza 4/2/2013 15:54" } }
