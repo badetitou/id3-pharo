@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"tagTitled:" : "NahuelGarbezza 4/9/2013 20:08",
+		"tagTitled:artist:album:year:comment:genre:" : "NahuelGarbezza 4/9/2013 20:14",
+		"tagWithAlbum:" : "NahuelGarbezza 4/9/2013 20:31",
+		"tagWithArtist:" : "NahuelGarbezza 4/9/2013 20:27",
+		"tagWithComment:" : "NahuelGarbezza 4/9/2013 20:36",
+		"tagWithGenre:" : "NahuelGarbezza 4/9/2013 21:31",
+		"tagWithYear:" : "NahuelGarbezza 4/9/2013 20:36",
+		"testShouldParseTheSongAlbum" : "NahuelGarbezza 4/9/2013 20:31",
+		"testShouldParseTheSongArtist" : "NahuelGarbezza 4/9/2013 20:26",
+		"testShouldParseTheSongComment" : "NahuelGarbezza 4/9/2013 20:35",
+		"testShouldParseTheSongGenre" : "NahuelGarbezza 4/9/2013 21:31",
+		"testShouldParseTheSongTitle" : "NahuelGarbezza 4/9/2013 20:22",
+		"testShouldParseTheSongYear" : "NahuelGarbezza 4/9/2013 20:33" } }

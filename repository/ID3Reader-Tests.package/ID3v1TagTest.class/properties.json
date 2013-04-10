@@ -1,0 +1,14 @@
+{
+	"category" : "ID3Reader-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ID3v1TagTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

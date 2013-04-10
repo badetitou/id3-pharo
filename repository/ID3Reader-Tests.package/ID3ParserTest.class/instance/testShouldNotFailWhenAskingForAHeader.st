@@ -1,4 +1,4 @@
-header
+id3v2
 testShouldNotFailWhenAskingForAHeader
 
 	|parser|

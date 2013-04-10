@@ -1,4 +1,4 @@
-header
+id3v2
 testIfStartsWithID3ShouldHaveAID3v2Tag
 
 	|parser|

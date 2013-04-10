@@ -6,8 +6,12 @@
 		"testIfDoesNotStartWithID3ShouldNotHaveAID3v2Tag" : "NahuelGarbezza 4/2/2013 16:17",
 		"testIfStartsWithID3ShouldHaveAID3v2Tag" : "NahuelGarbezza 4/2/2013 16:17",
 		"testShouldFailToReturnHeaderIfItDoesNotStartWithID3" : "NahuelGarbezza 4/2/2013 16:17",
+		"testShouldHaveId3v1Tag" : "NahuelGarbezza 4/9/2013 18:20",
 		"testShouldNotFailWhenAskingForAHeader" : "NahuelGarbezza 4/2/2013 16:17",
+		"testShouldNotHaveId3v1TagIfTheFileContainsLessThan128Bytes" : "NahuelGarbezza 4/9/2013 18:18",
+		"testShouldNotHaveId3v1TagIfTheLast128BytesFragmentDoNotStartWithTAG" : "NahuelGarbezza 4/9/2013 18:03",
 		"testShouldReturnASingleFrameParsedCorrectly" : "NahuelGarbezza 4/4/2013 00:18",
+		"testShouldReturnAValidID3v1Tag" : "NahuelGarbezza 4/9/2013 22:02",
 		"testShouldReturnAnEmptyListOfFramesWhenThereIsNoData" : "NahuelGarbezza 4/3/2013 16:32",
 		"testShouldReturnMultipleFramesParsedCorrectly" : "NahuelGarbezza 4/4/2013 00:17",
 		"validHeader" : "NahuelGarbezza 4/3/2013 14:45" } }

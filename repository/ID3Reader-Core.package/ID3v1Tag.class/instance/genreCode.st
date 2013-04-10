@@ -1,0 +1,4 @@
+fields
+genreCode
+
+	^ bytes last
