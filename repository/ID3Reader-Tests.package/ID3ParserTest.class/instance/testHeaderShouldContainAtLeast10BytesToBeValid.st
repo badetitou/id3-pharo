@@ -8,4 +8,6 @@ testHeaderShouldContainAtLeast10BytesToBeValid
 		should: [ parser header ]
 		raise: ID3InvalidTagError
 		withExceptionDo: [ :exception |
-			self should: exception messageText = 'the ID3v2 header should have at least 10 bytes' ]
+			self
+				assert: exception messageText
+				equals: 'the ID3v2 header should have at least 10 bytes' ]

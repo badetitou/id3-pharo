@@ -8,4 +8,6 @@ testShouldFailToReturnHeaderIfItDoesNotStartWithID3
 		should: [ parser header ]
 		raise: ID3InvalidTagError
 		withExceptionDo: [ :exception |
-			self should: exception messageText = 'cannot find a ID3v2 tag' ]
+			self
+				assert: exception messageText
+				equals: 'cannot find a ID3v2 tag' ]

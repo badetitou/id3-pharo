@@ -1,4 +1,4 @@
 tag size
 tagSize
 
-	^self synchsafeDecode: self tagSizeBytes
+	^ self synchsafeDecode: self tagSizeBytes

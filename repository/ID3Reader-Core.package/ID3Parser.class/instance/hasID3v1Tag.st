@@ -1,4 +1,6 @@
 testing
 hasID3v1Tag
 
-	^ [((self stream last: 128) first: 3) asString = 'TAG'] on: Error do: [ :exc | false ]
+	^ [ (self id3v1Bytes first: self id3v1TagIdentifierSize) asString = self id3v1TagIdentifier ]
+		on: Error
+		do: [ :exc | false ]

@@ -11,9 +11,10 @@ testShouldReturnAValidID3v1Tag
 	genre := #[93]. "Psychedelic Rock :)"
 	parser := ID3Parser on: music , 'TAG' asByteArray , title , artist , album , year , comment , genre.
 	
-	self assert: parser id3v1Tag title equals: 'Echoes'.
-	self assert: parser id3v1Tag artist equals: 'Pink Floyd'.
-	self assert: parser id3v1Tag album equals: 'Meddle'.
-	self assert: parser id3v1Tag year equals: 1971.
-	self assert: parser id3v1Tag comment equals: 'this is a comment'.
-	self assert: parser id3v1Tag genre equals: 'Psychedelic Rock'.
+	self
+		assert: parser id3v1Tag title equals: 'Echoes';
+		assert: parser id3v1Tag artist equals: 'Pink Floyd';
+		assert: parser id3v1Tag album equals: 'Meddle';
+		assert: parser id3v1Tag year equals: 1971;
+		assert: parser id3v1Tag comment equals: 'this is a comment';
+		assert: parser id3v1Tag genre equals: 'Psychedelic Rock'

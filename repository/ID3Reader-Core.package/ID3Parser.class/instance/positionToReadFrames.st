@@ -1,4 +1,6 @@
 private
 positionToReadFrames
 
-	self stream reset; next: 10. "skip header"
+	self stream
+		reset;
+		next: self headerSize "skip header"

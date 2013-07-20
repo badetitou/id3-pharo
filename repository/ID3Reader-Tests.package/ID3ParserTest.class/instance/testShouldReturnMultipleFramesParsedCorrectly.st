@@ -8,10 +8,11 @@ testShouldReturnMultipleFramesParsedCorrectly
 	frameBytes := titleFrame , albumFrame , yearFrame.
 	parser := ID3Parser on: (self validHeader , frameBytes) readStream.
 
-	self assert: parser frames size == 3.
-	self assert: parser frames first id = 'TIT2'.
-	self assert: parser frames first content = 'Hoodoo'.
-	self assert: parser frames second id = 'TALB'.
-	self assert: parser frames second content = 'Black Holes and Revelations'.
-	self assert: parser frames third id = 'TDRC'.
-	self assert: parser frames third content = '2006'
+	self
+		assert: parser frames size equals: 3;
+		assert: parser frames first id equals: 'TIT2';
+		assert: parser frames first content equals: 'Hoodoo';
+		assert: parser frames second id equals: 'TALB';
+		assert: parser frames second content equals: 'Black Holes and Revelations';
+		assert: parser frames third id equals: 'TDRC';
+		assert: parser frames third content equals: '2006'
