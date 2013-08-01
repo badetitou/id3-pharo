@@ -12,6 +12,7 @@
 		"testShouldNotHaveId3v1TagIfTheLast128BytesFragmentDoNotStartWithTAG" : "NahuelGarbezza 7/20/2013 12:19",
 		"testShouldReturnASingleFrameParsedCorrectly" : "NahuelGarbezza 7/20/2013 12:20",
 		"testShouldReturnAValidID3v1Tag" : "NahuelGarbezza 7/20/2013 12:21",
+		"testShouldReturnAValidID3v2Tag" : "NahuelGarbezza 8/1/2013 19:18",
 		"testShouldReturnAnEmptyListOfFramesWhenThereIsNoData" : "NahuelGarbezza 7/20/2013 12:21",
 		"testShouldReturnMultipleFramesParsedCorrectly" : "NahuelGarbezza 7/20/2013 12:22",
 		"validHeader" : "NahuelGarbezza 4/3/2013 14:45" } }

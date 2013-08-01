@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testShouldAnswerThatItIsIdentifiedWithAnId" : "NahuelGarbezza 8/1/2013 18:55",
+		"testShouldAnswerThatItIsNotIdentifiedWithAnId" : "NahuelGarbezza 8/1/2013 18:55",
 		"testShouldReturnTheContent" : "NahuelGarbezza 4/3/2013 16:31",
 		"testShouldReturnTheContentEncoding" : "NahuelGarbezza 4/3/2013 16:31",
 		"testShouldReturnTheFrameId" : "NahuelGarbezza 4/3/2013 16:31",

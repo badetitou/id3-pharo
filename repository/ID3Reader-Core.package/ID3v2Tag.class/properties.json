@@ -1,0 +1,15 @@
+{
+	"category" : "ID3Reader-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"header",
+		"frames" ],
+	"name" : "ID3v2Tag",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
