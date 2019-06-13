@@ -1,4 +1,4 @@
 fields
-lenght
+length
 
 	^ self contentOfFrameIdentifiedWith: self lengthFrameId
