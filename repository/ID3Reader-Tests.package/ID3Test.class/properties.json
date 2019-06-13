@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "ID3Test",
+	"super" : "TestCase",
 	"category" : "ID3Reader-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ID3ParserTest",
+	"name" : "ID3Test",
 	"type" : "normal"
 }

@@ -1,14 +1,13 @@
 {
-	"category" : "ID3Reader-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ID3v24FrameHeader",
-	"pools" : [
-		 ],
+	"commentStamp" : "BenoitVerhaeghe 6/13/2019 12:24",
 	"super" : "ID3v24TagFragment",
-	"type" : "normal" }
+	"category" : "ID3Reader-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header"
+	],
+	"name" : "ID3v24FrameHeader",
+	"type" : "normal"
+}

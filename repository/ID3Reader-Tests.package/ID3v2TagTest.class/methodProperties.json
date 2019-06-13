@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"testGetAFieldInexistentInTheTag" : "NahuelGarbezza 8/1/2013 19:31",
-		"testGetTheAlbumOfATag" : "NahuelGarbezza 8/1/2013 19:34",
-		"testGetTheArtistOfATag" : "NahuelGarbezza 8/1/2013 19:33",
-		"testGetTheTitleOfATag" : "NahuelGarbezza 8/1/2013 19:26" } }

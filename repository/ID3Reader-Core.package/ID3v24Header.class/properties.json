@@ -1,14 +1,11 @@
 {
-	"category" : "ID3Reader-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ID3v24Header",
-	"pools" : [
-		 ],
 	"super" : "ID3v24TagFragment",
-	"type" : "normal" }
+	"category" : "ID3Reader-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ID3v24Header",
+	"type" : "normal"
+}
