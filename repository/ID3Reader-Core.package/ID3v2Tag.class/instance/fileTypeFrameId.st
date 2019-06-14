@@ -1,3 +1,0 @@
-fields
-fileTypeFrameId
-	^ 'TFLT'

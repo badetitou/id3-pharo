@@ -1,4 +1,0 @@
-private
-headerSize
-
-	^ 10

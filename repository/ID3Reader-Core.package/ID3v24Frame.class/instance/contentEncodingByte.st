@@ -1,4 +1,0 @@
-private
-contentEncodingByte
-
-	^ bytes first

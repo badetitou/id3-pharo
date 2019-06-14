@@ -1,4 +1,0 @@
-helpers
-validHeader
-
-	^ self validUnsynchronisationHeader
